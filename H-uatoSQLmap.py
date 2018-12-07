@@ -1,7 +1,7 @@
 # -*- coding: gbk -*-
 import time
 from selenium import webdriver
-from setting import *
+from config import *
 import os
 import sys
 import re
